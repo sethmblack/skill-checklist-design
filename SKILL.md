@@ -3,8 +3,8 @@ name: checklist-design
 description: Design effective checklists for complex processes to catch errors that expertise alone misses. Based on Atul Gawande's methodology from The Checklist Manifesto and the WHO Surgical Safety Checklist.
 license: MIT
 metadata:
+  version: 1.0.3581
   author: sethmblack
-  version: 1.0.3580
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - checklist-design
