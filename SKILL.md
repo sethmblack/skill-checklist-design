@@ -4,7 +4,8 @@ description: Design effective checklists for complex processes to catch errors t
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3580
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - checklist-design
 - writing
